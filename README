@@ -1,7 +1,0 @@
-BAZAM - A Shazam-like Application in Java
-
-This is a standalone JAR application that can index audio files into a library, from which you can diff
-short audio snippets (less than a minute) against the library. It will return the closest match in a popup. 
-
-Done the fall of 2010. 
-
